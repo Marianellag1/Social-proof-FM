@@ -13,6 +13,7 @@ body {
     Font-size: 15px;
     font-family: 'League Spartan', sans-serif;
     background-image:url("bg-pattern-bottom-desktop.svg");
+    margin-top: 9%;
 }
 
 .stars img {
@@ -84,3 +85,18 @@ div.stars {
 .card-body p {
     color: hsl(0, 0%, 100%);
 }
+
+@media (max-width: 768px) {
+    .rate {
+      flex-direction: column;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
+
+@media (max-width: 768px) {
+    .box {
+      flex-direction: column;
+      margin-left: 10px;
+    }
+  }
