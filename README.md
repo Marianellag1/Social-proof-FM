@@ -25,6 +25,9 @@ Users should be able to:
 
 ### Screenshot
 
+![My Image](assets/finishedChallenge/_C__Users_maria_OneDrive_desktop_Frontend-Mentor-Solved-by-Me_Social-proof-FM_index.html.png)
+
+![My Image](assets/finishedChallenge/_C__Users_maria_OneDrive_desktop_Frontend-Mentor-Solved-by-Me_Social-proof-FM_index.html(iPhone%20SE).png)
 
 ### Links
 
